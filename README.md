@@ -6,6 +6,8 @@ Bienvenu sur le code source de portfoliblog, un blog et un portfolio en un, a no
 
 -Pour l'ajout de projet ou d'article il faut se login en tant qu'admin pour cela utilisé l'adresse email: "admin@admin.admin" , et le mdp: "admin".
 
+-Seul la page de deconnexion a été coder avec bootstrap (car j'avais pas vus qu'il fallait l'utiliser) :)
+
 -Si vous trouvez n'importe quel probleme veillez m'en informer svp.
 
 Merci
